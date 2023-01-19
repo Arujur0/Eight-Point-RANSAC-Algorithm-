@@ -24,4 +24,8 @@ The RANSAC Algorithm considers 8 points randomly and then tests the result with 
   
 ## Results
 The results for the 8 point algorithm are as follows:
-![Mount Rushmore](results/ml_8point.png)
+![Left and Right](results/ml_8point.png)
+
+![Notre Dam](results/notredam_8point.png)
+
+![Mount Rushmore](results/rushmore_8point.png)
