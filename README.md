@@ -29,3 +29,10 @@ The results for the 8 point algorithm are as follows:
 ![Notre Dam](results/notredam_8point.png)
 
 ![Mount Rushmore](results/rushmore_8point.png)
+
+The results for the RANSAC algorithm are as follows:
+![Left and Right](results/ml_ransac.png)
+
+![Notre Dam](results/notredam_ransac.png)
+
+![Mount Rushmore](results/rushmore_ransac.png)
